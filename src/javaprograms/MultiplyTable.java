@@ -1,3 +1,4 @@
+//Multiplication Table
 package javaprograms;
 import java.util.Scanner;
 import java.util.*;
